@@ -29,7 +29,7 @@ import { RequestPasswordComponent } from './auth/request-password/request-passwo
 import { ResetPasswordComponent } from './auth/reset-password/reset-password.component';
 
 export const firebaseConfig = {
-  
+  // TODO fill api key
 };
 
 @NgModule({
